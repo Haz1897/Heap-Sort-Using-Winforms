@@ -1,0 +1,17 @@
+C:\VSProjects\Heap Sort\Heap Sort\bin\Release\net6.0-windows\Heap Sort.exe
+C:\VSProjects\Heap Sort\Heap Sort\bin\Release\net6.0-windows\Heap Sort.deps.json
+C:\VSProjects\Heap Sort\Heap Sort\bin\Release\net6.0-windows\Heap Sort.runtimeconfig.json
+C:\VSProjects\Heap Sort\Heap Sort\bin\Release\net6.0-windows\Heap Sort.dll
+C:\VSProjects\Heap Sort\Heap Sort\bin\Release\net6.0-windows\Heap Sort.pdb
+C:\VSProjects\Heap Sort\Heap Sort\obj\Release\net6.0-windows\Heap Sort.csproj.AssemblyReference.cache
+C:\VSProjects\Heap Sort\Heap Sort\obj\Release\net6.0-windows\Heap_Sort.Form1.resources
+C:\VSProjects\Heap Sort\Heap Sort\obj\Release\net6.0-windows\Heap Sort.csproj.GenerateResource.cache
+C:\VSProjects\Heap Sort\Heap Sort\obj\Release\net6.0-windows\Heap Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSProjects\Heap Sort\Heap Sort\obj\Release\net6.0-windows\Heap Sort.AssemblyInfoInputs.cache
+C:\VSProjects\Heap Sort\Heap Sort\obj\Release\net6.0-windows\Heap Sort.AssemblyInfo.cs
+C:\VSProjects\Heap Sort\Heap Sort\obj\Release\net6.0-windows\Heap Sort.csproj.CoreCompileInputs.cache
+C:\VSProjects\Heap Sort\Heap Sort\obj\Release\net6.0-windows\Heap Sort.dll
+C:\VSProjects\Heap Sort\Heap Sort\obj\Release\net6.0-windows\refint\Heap Sort.dll
+C:\VSProjects\Heap Sort\Heap Sort\obj\Release\net6.0-windows\Heap Sort.pdb
+C:\VSProjects\Heap Sort\Heap Sort\obj\Release\net6.0-windows\Heap Sort.genruntimeconfig.cache
+C:\VSProjects\Heap Sort\Heap Sort\obj\Release\net6.0-windows\ref\Heap Sort.dll
